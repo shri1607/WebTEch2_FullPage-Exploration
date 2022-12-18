@@ -1,0 +1,11 @@
+h1{
+    font-family:'Arial, Helvetica, sans-serif';
+    text-align: center;
+    
+}
+
+.s1{
+    background: url('/img1.jpg');
+    background-size: cover;
+    
+}
